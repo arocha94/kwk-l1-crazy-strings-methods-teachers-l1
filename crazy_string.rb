@@ -1,5 +1,7 @@
 # write your method here
 
-def crazy_strings(a,b)
-a = apple.reverse.upcase
+def crazy_strings(a = "apple",b)
+  
+a = a.reverse.upcase
+
 end
