@@ -1,5 +1,5 @@
 # write your method here
 
 def crazy_strings(a,b)
-a = apple.aa.reverse.upcase
+a = apple.reverse.upcase
 end
